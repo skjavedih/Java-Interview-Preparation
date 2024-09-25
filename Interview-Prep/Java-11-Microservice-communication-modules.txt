@@ -1,0 +1,30 @@
+Regarding Microservice communication, There are various modules:
+
+1. RestTemplate:
+	- What it is: A traditional way to make HTTP requests in Spring.
+	- Its like a tool that helps your program talk to other programs on the web by sending and receiving data.
+	
+2. Feign Client:
+
+	- What it is: A friendlier way to talk to other services. your write an interface, and it does a lot of the communication work for you.
+	- Its like having a conversation using a script; you define how you want to talk, and it handles the details.
+	
+3. WebClient:
+
+	- A modern way to make web requests thats good for handling many things at once.
+	- imagine sedning messages to multiple friends simultaneously without waiting for each response; it's good for doing many things at the same time.
+	
+4. Retrofit:
+
+	- Not specifc to Spring, but widely used in java. it helps you create special type of friend for talking to web services, making sure everything
+	fits together nicely.
+	- Like having a special friend who speaks the language of web services fluently; you just tell them what you need, and they take care of the rest.
+	
+5. OkHTTP:
+
+	- Another general-pupose tool for making web requesting in java, often used with Spring.
+	- Think of it as a reliable messenger that ensures your messages reach thier destination sefely.
+	
+	
+Each of these tools simplifies the process of communication between different parts of your application or between differnet applications in a 
+microservices setup.

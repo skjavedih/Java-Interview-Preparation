@@ -1,0 +1,26 @@
+Eureka Server or Eureka Discovery:
+
+
+Eureka service registers all the information about other services so that one service can find another service easily.
+
+Imagine service discovery as a game of hide-and-seek.
+
+Each player(service) hides in a differnt room (server), and Eureka is like the referee who keeps track of where everyone is hiding.
+So, when one player needs to find another, they just ask the referee, and they point them in the right direction, 
+making it easy to find each other and continue playing together.
+
+Eureka server provides:
+
+1. Service Registration: Services register themselves with Eureka server.
+
+2. Service Discovery: Services find and locate each other thourgh Eureka.
+
+3. Health Monitoring: Eureka monitors the health of registerd services.
+
+4. Load Balancing: Eureka directs client requests to available service instances.
+
+5. Failover and Redundancy: Eureka redirects traffic to backup instances if primary ones fail.
+
+6. Metadata Management: Eureka supports attaching metadata to services.
+
+7. Dynamic configuration: Eureka enables dynamic updares to serice configurations.

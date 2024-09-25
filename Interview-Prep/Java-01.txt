@@ -1,0 +1,19 @@
+Java Basics:
+
+OOP's Concepts:
+---------------
+1. Classes and Objects
+2. Encapsulation
+3. Inheritance
+4. Polymorphism
+5. Abstraction
+6. Interfaces
+7. Abstract Classes
+8. Method Overloading
+9. Method Overriding
+10. Constructor Overloading
+11. Constructor chaining
+12. Access Modifiers(public, private, protected, default)
+13. Association
+14. Aggregation
+15. Composition

@@ -1,0 +1,21 @@
+
+1. API Gateway:
+
+2. Ribbon:
+	- Imagine Ribbon as a friendly traffic cop.
+	- It helps your applications find the right microservice by directing them to available instances, ensruing a smooth flow of requests without
+	  overwhelming one service.
+	  
+Resilience4j is like superhero for your Spring app:
+
+	1. Circuit Breaker: Stops calling a broken part to avoid making things worse.
+	2. Retry: Keeps trying, so if something fails, it doesn't give up right away.
+	3. Rate Limiter: Controls how often your app does things to prevent overload.
+	4. Bulkhead: Keeps problems in one part from spreading to the wholw app.
+	5. TimeLimiter: Puts a time limit on tasks to avoid long delyas.
+	
+	Why use it?
+	
+		- Avoids crashes: it helps your app say up, even if some parts act up.
+		- Fixes issues quietly: Stops troubled areas from causing more trouble.
+		- Works smoothly with Spring: its like a sidekick that fits perfectly into your Spring app.

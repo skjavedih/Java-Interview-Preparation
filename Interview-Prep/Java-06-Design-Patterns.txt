@@ -1,0 +1,33 @@
+Design Patterns:
+----------------
+
+1. Creational design pattern
+	a. Factory method
+	b. Abstract factory
+	c. Builder
+	d. Prototye
+	e. Singleton
+	
+2. Structural design pattern
+
+	a. Adaptor
+	b. Bridge
+	c. Composite
+	d. Decorator
+	e. Facade
+	f. Flyweight
+	g. Proxy
+	
+3. Behavioral design pattern
+	
+	a. Chain of responsibility
+	b. Command
+	c. Interpreter
+	d. Iterator
+	e. Mediator
+	f. Memento
+	g. Observer
+	h. State
+	i. Strategy
+	j. Visitor
+	k. Template Method

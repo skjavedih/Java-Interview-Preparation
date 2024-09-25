@@ -1,0 +1,42 @@
+Monolithic Application Components:
+	
+	- Single codebase
+	- Unified database
+	- Centralized user interface
+	- Shared libraries and resources
+	
+Microservices Application Components:
+
+	- Distributed Services
+	- Isolated services
+	- Decentralized user interfaces
+	- independent libraries and resources
+	
+Addiionally Microservices have 
+
+	1. Database per Microservices
+	2. Event sourcing
+	3. CQRS
+	4. Saga
+	5. BFF
+	6. API Gateway
+	7. Strangler
+	8. Circuit Breaker
+	9. Externalized Configuration
+	10. Consumer-Driven Contract Tracing
+	
+Microservices components explains: 
+
+1. Database per Microservices: Each microservice has its own dedicated dataase, enhancing independence and scalbility.
+
+2. Event Driven: System desgin where compenents communicate through events, enabling real-time updates and responsiveness.
+
+3. API Gateway: Centralized entry point for handling API requests, streamlining communication and managing security.
+
+4. Strangler: Gradual migration strategy, replacing parts of an old system with new features incrementally.
+
+5. Circuit Braker: Mechanism preventing system failures by temporarily blocking requests to failing services, ensuring stability.
+
+6. Externalized Configuration: Storing configuration setting outside the code, promoting flexibility and easy adjustments.
+
+7. Consumer-Driven Contract Tracing: Collaborative approach ensuring services meet expectations, enhancing communication and reliability.

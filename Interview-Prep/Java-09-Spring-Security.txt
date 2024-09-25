@@ -1,0 +1,31 @@
+Spring Data & Spring Security:
+
+
+Spring Data : It simplifies data access in Spring applications, providing a consistent approach to intract with various databases.
+
+1. Spring Data JPA
+2. Spring Data MongoDB
+3. Spring Data Redis
+4. Spring Data JDBC
+5. Spring Data Elasticsearch
+6. Spring Data REST
+7. Srping Data for Apache Cassandra
+8. Spring Data for Apache Solr
+9. Query methods and custome queries
+10. Auditing and automatic timestamps
+
+
+Spring Security: It's a powerful authentication and access control framework for securing Spring-based applications.
+
+1. Core Security
+2. Authentication and Authorization
+3. Form-based and OAuth-based authentication
+4. Role-based access control
+5. CSRF protection
+6. Session management
+7. Method-level security
+8. LDAP integration
+9. Remember-me functionality
+10. JWT(JSON Web Tokens)
+11. OAuth 2.0
+

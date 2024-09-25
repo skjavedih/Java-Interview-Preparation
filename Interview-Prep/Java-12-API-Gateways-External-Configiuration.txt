@@ -1,0 +1,22 @@
+API gateways, External Configuration.
+
+1. Load Balancer in Spring: It evenly distributes website or app visitors across multiple servers to keep things running smoothly and fast.
+
+	Dependency - Use Spring Cloud LoadBalancer
+	
+2. API Gateway in Spring: It's like a main entrance to your system, managing and secruing communication between differnt services so clients can access
+	functionalitites easily.
+	
+	Dependency - Use Spring Cloud Gateway
+	
+3. External configuration in Spring: it stroing settings outside your code using Spring Cloud config. It helps manage and update settings without 
+	code changes.
+	
+	Dependency - Spring Cloud Configuration
+
+4. Distributed tracing: In spring lets you track how requests move through your system using tools like spring Cloud Sleuth and Zipkin or Jaeger.
+	It helps debug issues and monitor performance across multiple services.
+	
+	Dependency - Spring cloud Sleuth or Zipkin or Jaeger
+	Note: Sleuth and Zipkin are widely used.
+	

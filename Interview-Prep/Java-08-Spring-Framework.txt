@@ -1,0 +1,17 @@
+Preparing for Spring Framework(Backend Development):
+
+Spring MVC : There are four layers in the Spring MVC
+
+1. Controller Layer:
+	- Use: Receives and processes user requests, interacts with the Model layer, and selects the appropriate view to render the response.
+	
+2. Service Layer:
+	- Use: Contains business logic and acts as an intermediary between the Controller and the Data access layer, 
+	facilitating reusable and modular code.
+	
+3. Repository (Data Access) Layer:
+	- Use: Manages data persistence and retrieval, interacts with databases or other data sources, providing an abstraction for the underlying storage.
+	
+4. Model layer:
+	- Use: Represents the application's data and business logic, ensuring a clean sepration form the presentation and control layers for enhanced
+	maintainability.

@@ -1,0 +1,26 @@
+Understading Architecture:
+--------------------------
+
+1. Monolithic Architecture
+2. Microservices Architecture
+3. Clent-Server Architecture
+4. Model-View-Controller(MVC)
+5. Event-Driven Architecture
+6. Lyered Architecture
+7. P2P(Peer-to-Peer) Architecture
+8. Event Sourcing
+9. Serverless Architecture
+
+
+Distributed system design patterns:
+
+1. Ambassador
+2. Circuit Braker
+3. Bulk Head
+4. CQRS or Command Query Responsibility Segragation
+5. Event Sourcing
+6. Leader election
+7. Publisher/Subscriber
+8. Sharding
+9. Strangler Pattern
+10. Load Blancing
